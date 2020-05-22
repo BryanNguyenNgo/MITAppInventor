@@ -5,3 +5,5 @@ MIT App Inventor lets you develop applications for Android phones using a web br
 https://youtu.be/5WJOVeslUIw
 # 2. I progammmed a game where a pacman swallows colour balls and it became bigger
 https://youtu.be/Xtk6ryK5Vqo
+# 3. I created a mobile app using MIT App Inventor. This app is an exercise app to track your steps and BMI. It has a login feature. Formula for BMI = Weight/(Height x Height).
+https://youtu.be/JmwMVAZVhv0
